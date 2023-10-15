@@ -1,0 +1,4 @@
+pytube
+openai-whisper
+streamlit
+faster-whisper
