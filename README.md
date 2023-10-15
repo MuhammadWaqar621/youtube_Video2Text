@@ -10,7 +10,7 @@ It is completely free to use and runs locally on your pc.
 
 ## Written Tutorial
 
-[PLEASE MAKE SURE YOU HAVE FFMPEG INSTALLED!](https://www.wikihow.com/Install-FFmpeg-on-Windows)
+[PLEASE MAKE SURE YOU HAVE FFMPEG INSTALLED!](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/)
 
 ```$ apt-get install ffmpeg```
 or
@@ -18,7 +18,7 @@ or
 
 --------------------------------------
 
-0. clone the repo with `git clone https://github.com/XamHans/video-2-text.git`
+0. clone the repo with `git clone https://github.com/MuhammadWaqar621/youtube_Video2Text.git`
 1. cd into webserver
 2. pip3 install -r requirements.txt
 3. streamlit run app.py
